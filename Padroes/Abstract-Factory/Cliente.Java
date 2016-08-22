@@ -1,7 +1,0 @@
-public class Cliente {
-    public static void main (String[] argv) throws ParseException {
-        Pizzaria pizzaria = new Pizzaria("10/08/2016");
-        Pizza pizza = (Pizza) pizzaria.criarPizza();
-        pizza.exibirInformacoes();
-    }
-}
