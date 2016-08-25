@@ -8,7 +8,7 @@ public class Aplicacao {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Stub de método gerado automaticamente
+		// TODO Stub de mÃ©todo gerado automaticamente
 		
 		Logger logger;
 		System.out.println("Escolha o registro de log: 1-File, 2-EventView, 3-Database");
