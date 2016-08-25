@@ -1,6 +1,6 @@
 package br.uece.ees.padroesdeprojetos.q03_FactoryMethod;
 
-public class Client {
+public class Cliente {
 
 	/**
 	 * @param args
