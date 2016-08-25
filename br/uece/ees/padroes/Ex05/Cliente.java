@@ -6,7 +6,7 @@ public class Cliente {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Stub de método gerado automaticamente		
+		// TODO Stub de mÃ©todo gerado automaticamente		
 		MaquinaChain maquina = new Refrigerante();
 		maquina.setNext(new Salgadinhos());
 		
