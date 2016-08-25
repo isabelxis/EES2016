@@ -6,7 +6,7 @@ public class Client {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Stub de método gerado automaticamente
+		// TODO Stub de mÃ©todo gerado automaticamente
 		
 		FabricaDeVisualizador visualizar = new VisualizadorBMP();
 		visualizar.visualizar();
